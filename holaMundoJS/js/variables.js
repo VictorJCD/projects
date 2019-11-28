@@ -7,7 +7,7 @@ var antiguedad = 2019;
 var pais_y_continente = pais+' '+continente;
 
 pais = "Mexico";
-continentes = "America del sur";
+continente = "America del sur";
 
 console.log(pais, continente, antiguedad);
 alert(pais_y_continente);
